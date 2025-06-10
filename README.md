@@ -11,6 +11,6 @@
 
 5) go to the bids section (do not visit leaderboard)
 6) slowly scroll through all your bids
-7) once you finished - expected stars is calculated
+7) once you finished - expected stars value is calculated and shown in the right bottom corner
 
 
